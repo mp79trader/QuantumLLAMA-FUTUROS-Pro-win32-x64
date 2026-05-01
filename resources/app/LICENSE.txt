@@ -1,0 +1,56 @@
+==================================================================================
+LICENCIA DE USO - QuantumLLAMA ETF Pro v6.0
+==================================================================================
+
+Copyright (c) 2024-2026 NBM Sistemas. Todos los derechos reservados.
+
+AVISO LEGAL:
+Este software es propiedad exclusiva de NBM Sistemas y está protegido por
+leyes de derechos de autor y propiedad intelectual.
+
+TÉRMINOS DE USO:
+
+1. LICENCIA PERSONAL
+   - Este software se proporciona para uso personal únicamente
+   - No puede ser redistribuido, compartido o vendido sin autorización escrita
+   - Cada licencia es válida para un único usuario
+
+2. RESTRICCIONES
+   - Está PROHIBIDO el reverse engineering o decompilación del software
+   - Está PROHIBIDO modificar, adaptar o crear trabajos derivados
+   - Está PROHIBIDO copiar o extraer el código fuente
+   - Está PROHIBIDO compartir credenciales de acceso
+
+3. PROPIEDAD INTELECTUAL
+   - Todos los algoritmos, estrategias y código son propiedad de NBM Sistemas
+   - El uso de este software NO transfiere derechos de propiedad intelectual
+   - Cualquier estrategia o señal generada es para uso personal del licenciatario
+
+4. LIMITACIÓN DE RESPONSABILIDAD
+   - Este software se proporciona "TAL CUAL" sin garantías de ningún tipo
+   - NBM Sistemas NO es responsable de pérdidas financieras derivadas del uso
+   - El trading conlleva riesgos; los resultados pasados no garantizan resultados futuros
+
+5. VIOLACIÓN DE TÉRMINOS
+   - Cualquier violación de estos términos resultará en:
+     * Revocación inmediata de la licencia
+     * Acciones legales por daños y perjuicios
+     * Reporte a autoridades competentes
+
+6. SOPORTE Y ACTUALIZACIONES
+   - El soporte técnico se proporciona según disponibilidad
+   - Las actualizaciones pueden requerir licencia activa
+   - NBM Sistemas se reserva el derecho de modificar estos términos
+
+ACEPTACIÓN:
+Al usar este software, usted acepta estar legalmente vinculado por estos términos.
+Si no está de acuerdo, debe desinstalar el software inmediatamente.
+
+CONTACTO:
+Para consultas sobre licencias: nbmsistemas@gmail.com
+Sitio web: https://github.com/nbmsistemas
+
+==================================================================================
+QuantumLLAMA ETF Pro - Sistema Cuantitativo de Trading con IA
+Versión 6.0.0 | Copyright (c) 2024-2026 NBM Sistemas
+==================================================================================
