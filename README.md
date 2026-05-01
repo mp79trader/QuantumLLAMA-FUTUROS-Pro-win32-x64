@@ -14,7 +14,7 @@ Este repositorio contiene la arquitectura modular del sistema, permitiendo la ej
 - **Análisis Cuantitativo:** R Language
 - **Modelos de ML:** Random Forest (Ranger), Gradient Boosting (Caret)
 - **Visualización:** Shiny, Shinydashboard, DT
-- **Conectividad:** Bridge con MetaTrader 5 (MT5)
+- **Conectividad:** Bridge con MetaTrader 5 (MT5) 
 
 ## 📁 Estructura del Repositorio
 ```text
